@@ -1,1 +1,3 @@
-# modcomputing.github.io
+# Mod Computing
+
+modcomputing.github.io -> modcomputing.com
